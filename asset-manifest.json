@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google_eats/static/css/main.b9e78c2c.css",
+    "main.js": "/google_eats/static/js/main.163187b9.js",
+    "index.html": "/google_eats/index.html",
+    "main.b9e78c2c.css.map": "/google_eats/static/css/main.b9e78c2c.css.map",
+    "main.163187b9.js.map": "/google_eats/static/js/main.163187b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e78c2c.css",
+    "static/js/main.163187b9.js"
+  ]
+}
