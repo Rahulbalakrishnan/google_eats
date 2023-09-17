@@ -1,4 +1,5 @@
 # Google Eats 🍔🍕🥗
+This is the first webpage I created in 2019 after learning React and tailwindcss.
 Visit: https://rahulbalakrishnan.github.io/google_eats/                                    
 
 
